@@ -1,0 +1,2 @@
+[ERROR] Not supported language "golang"
+[WARN] Supported languages:  java   javascript   kotlin   php   python   python3   rust   scala 

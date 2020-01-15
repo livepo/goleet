@@ -1,0 +1,2 @@
+[ERROR] Not supported language "golang"
+[WARN] Supported languages:  c   cpp   csharp   java   javascript   python   python3   ruby   swift 
